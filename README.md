@@ -13,7 +13,7 @@ This repo is a microsoft team auto-joiner. Made with Python! Made By: AKALolGame
 
 ##  Editing
   Edit Config.json
-  ```js
+  ```
   {
     "email": "XXXXXX", //Keep a email (can be left empty if you don't want to automatically login)
     "password": "XXXXXX", //A random password
